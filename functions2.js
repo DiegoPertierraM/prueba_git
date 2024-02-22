@@ -1,4 +1,4 @@
-const blabla = () => {
-  console.log(23);
+const example = () => {
+  console.log('soy un ejemplo');
 };
-blabla();
+example();
